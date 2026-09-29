@@ -1,0 +1,44 @@
+SAMRAIZ AZIZ
+Flutter Application Developer
+Mobile App Developer | AI Integration | Firebase | Web Development
+Karachi, Pakistan | 0318-7507646 | samraizshaikh158@gmail.com
+
+PROFILE
+Computer Science graduate and Flutter Application Developer focused on modern mobile applications, intuitive interfaces, backend integrations, and AI-powered functionality.
+
+TECHNICAL SKILLS
+Mobile: Flutter, Dart, Android
+Backend: Firebase, Firestore, Authentication, REST APIs
+State management: Riverpod, Provider, Bloc
+AI integration: Gemini API, AI features, Computer Vision
+Web: React, JavaScript, TypeScript, HTML, CSS
+Tools: Git, GitHub, VS Code, Android Studio, Figma
+
+PROJECTS
+Wasela - Food Rescue & Donation Platform
+Flutter-based platform concept connecting food providers, NGOs, and volunteers. Project areas include role-based authentication, provider/NGO/volunteer dashboards, donation management, pickup requests, Firebase, Firestore, and real-time data.
+Technologies: Flutter, Dart, Firebase, Firestore, Riverpod
+
+Outfit Oracle - AI-Powered Fashion Recommendation App
+AI-focused fashion application designed to provide personalized outfit recommendations based on user preferences and fashion inputs.
+Technologies: Flutter, AI APIs, Computer Vision, Firebase, Python
+GitHub: https://github.com/samraiz123/outfit_oracle
+
+TailorFlow - Digital Tailoring Management Platform
+Application concept for customer details, body measurements, orders, workforce, and payments.
+Technologies: Flutter, Firebase, UI/UX, Backend APIs
+
+Versce Blogs - Blogging & Web Project
+Editorial-style web project. Further implementation details can be added when available.
+
+EXPERIENCE
+Mobile Application Developer Intern | Marfah Technology
+Worked on mobile application development, feature implementation, debugging, and improving application functionality.
+
+President | IET Robotics Club — COMSATS Abbottabad
+Led technology-focused initiatives, events, workshops, and student activities while coordinating teams and external collaborations.
+
+EDUCATION
+Bachelor of Science in Computer Science
+COMSATS University Islamabad, Abbottabad Campus
+Graduated 2026 | CGPA: 3.07 / 4.00
